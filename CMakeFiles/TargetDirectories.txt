@@ -1,3 +1,0 @@
-/mnt/d/HXL/Programming/clion/a+b/CMakeFiles/rebuild_cache.dir
-/mnt/d/HXL/Programming/clion/a+b/CMakeFiles/edit_cache.dir
-/mnt/d/HXL/Programming/clion/a+b/CMakeFiles/code.dir
